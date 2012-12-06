@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  temperature: 
+  notes: 
+  user_id: 1
+
+two:
+  temperature: 
+  notes: 
+  user_id: 1
